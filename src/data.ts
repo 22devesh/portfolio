@@ -151,7 +151,7 @@ export const education: Education[] = [
     degree: 'B.Tech in Computer Science and Engineering',
     institution: 'Lovely Professional University',
     duration: '2022–Present',
-    score: 'CGPA: 7.17',
+    score: 'CGPA: 7.46',
   },
   {
     degree: 'Intermediate',
